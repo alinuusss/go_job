@@ -1,0 +1,15 @@
+.nav__link {
+    color: #fff;
+    text-decoration: none;
+}
+.nav {
+    display: flex;
+    list-style: none;
+}
+.nav__item {
+    margin-right: 20px;
+
+    &:last-child {
+        margin-right: 0;
+    }
+}

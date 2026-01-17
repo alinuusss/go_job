@@ -1,0 +1,20 @@
+.off_md_top {
+    margin-top: 20px;
+}
+.off_md_bot {
+    margin-bottom: 20px;
+}
+
+.off_lg_top {
+    margin-top: 40px;
+}
+.off_lg_bot {
+    margin-bottom: 40px;
+}
+
+.off_xs_top {
+    margin-top: 10px;
+}
+.off_xs_bot {
+    margin-bottom: 10px;
+}

@@ -395,6 +395,7 @@ body {
     .main__text {
         font-size: 14px;
         line-height: 20px;
+        width: 54%;
     }
 
     .main-section__container {

@@ -17,7 +17,6 @@ document.body.addEventListener('click', event => {
         let element = document.querySelector(href);
 
         if (element) {
-            event.preventDefault();
             window.scrollTo({top: element.offsetTop - 120, behavior: 'smooth'});
         }
     }

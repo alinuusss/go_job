@@ -6,7 +6,7 @@
                 @include('includes.nav')
             </div>
             <div class="header__right">
-                <a href="#" class="link arr_link">
+                <a href="{{ config('app_site.link') }}" target="_blank" class="link arr_link">
                     Подключиться
                 </a>
             </div>

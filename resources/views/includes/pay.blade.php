@@ -91,5 +91,10 @@
         <p>
             Трудовые отношения с сервисом Яндекс Еда не оформляются.
         </p>
+        <div>
+            <a href="{{ config('app_site.link') }}" target="_blank" class="btn main__btn">
+                Подключиться
+            </a>
+        </div>
     </div>
 </div>

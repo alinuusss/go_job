@@ -509,6 +509,7 @@ body {
     }
     .step-item {
         font-size: 14px;
+        flex-flow: row wrap;
     }
     .section_gradient {
         p {
@@ -523,5 +524,14 @@ body {
             bottom: 25px;
             right: 8px;
         }
+    }
+    .trans-item {
+        p {
+            font-size: 14px;
+            line-height: 20px;
+        }
+    }
+    .step-item__info {
+        width: 220px;
     }
 }

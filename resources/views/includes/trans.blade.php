@@ -1,4 +1,4 @@
-<div class="block off_md_bot">
+<div class="block off_md_bot" id="trans">
     <h2 class="title">
         Способы передвижения
     </h2>

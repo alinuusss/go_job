@@ -1,4 +1,4 @@
-<div class="block off_md_bot">
+<div class="block off_md_bot" id="req">
     <h2 class="title">
         Требования к кандидатам
     </h2>

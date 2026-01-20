@@ -1,4 +1,4 @@
-<div class="block off_md_bot">
+<div class="block off_md_bot" id="geo">
     <h2 class="title">
         География подключения
     </h2>

@@ -1,4 +1,4 @@
-<div class="row section_wrap off_md_bot">
+<div class="row section_wrap off_md_bot" id="pay">
     <div class="block section_pay">
         <h2 class="title">
             Вознаграждение и выплаты

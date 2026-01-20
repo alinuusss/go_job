@@ -10,7 +10,7 @@
     &::before {
         content: "";
         display: inline-block;
-        background: url("/resources/images/main-img.png") no-repeat;
+        background: url("/resources/images/test2.png") no-repeat;
         background-size: 100%;
         width: 1080px;
         height: 867px;

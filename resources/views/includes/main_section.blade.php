@@ -14,7 +14,7 @@
                Сайт с информацией о способах сотрудничества <br> в доставке заказов через партнёров сервиса Яндекс Еда
            </p>
            <div class="off_lg_top">
-               <a href="{{ config('app_site.link') }}" target="_blank" class="btn main__btn">
+               <a href="{{ config('app_site.link') }}" onclick="ym(106357133,'reachGoal','1'); return true;" target="_blank" class="btn main__btn">
                    Подключиться
                </a>
            </div>

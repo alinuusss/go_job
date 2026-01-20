@@ -14,7 +14,7 @@
             <div class="step-item">
                 <div class="step-item__num">2</div>
                 <div class="step-item__info">
-                    Перейдите на страницу <a href="{{ config('app_site.link') }}" class="link" target="_blank">партнёра для подачи заявки</a>
+                    Перейдите на страницу <a href="{{ config('app_site.link') }}" onclick="ym(106357133,'reachGoal','1'); return true;" class="link" target="_blank">партнёра для подачи заявки</a>
                 </div>
             </div>
             <div class="step-item">
@@ -33,7 +33,7 @@
             Нажав кнопку ниже, вы перейдёте на страницу сервиса Яндекс Еда, где можно выбрать способ передвижения и продолжить подключение
         </p>
         <div class="btn__footer">
-            <a href="{{ config('app_site.link') }}" target="_blank" class="btn">Подключиться</a>
+            <a href="{{ config('app_site.link') }}" onclick="ym(106357133,'reachGoal','1'); return true;" target="_blank" class="btn">Подключиться</a>
         </div>
     </div>
 </div>

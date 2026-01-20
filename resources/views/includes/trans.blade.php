@@ -168,7 +168,7 @@
     </div>
 
     <div class="block__footer">
-        <a href="{{ config('app_site.link') }}" target="_blank" class="btn trans__btn">
+        <a href="{{ config('app_site.link') }}" onclick="ym(106357133,'reachGoal','1'); return true;" target="_blank" class="btn trans__btn">
             Подключиться
         </a>
     </div>

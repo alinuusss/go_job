@@ -12,7 +12,7 @@
     <meta name="theme-color" content="">
     <meta name="robots" content="index, follow">
 
-    <meta name="yandex-verification" content="ea85076076b79dc6" />
+    <meta name="yandex-verification" content="912d30010b75a844" />
 
     @yield('og')
 

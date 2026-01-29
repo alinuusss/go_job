@@ -2,6 +2,7 @@
 
 @import "./includes/includes.css";
 @import "./elements/elements.css";
+@import "./pages/pages.css";
 
 * {
     box-sizing: border-box;
@@ -91,7 +92,7 @@ body {
     right: 0;
 }
 .home {
-    margin-top: -226px;
+    margin-top: -364px;
     position: relative;
     margin-bottom: 80px;
 }
@@ -374,6 +375,19 @@ body {
     }
     .home {
         margin-bottom: 30px;
+        margin-top: -310px;
+    }
+    .item {
+        width: 100%;
+        margin: 0 0 20px 0 !important;
+    }
+    .home_vakansii {
+        .item::before {
+            width: 200px;
+        }
+    }
+    .row_items {
+        margin-left: 0;
     }
 }
 
@@ -381,7 +395,9 @@ body {
     .main-title {
         font-size: 38px;
     }
-
+    .home {
+        margin-top: -266px;
+    }
     .main-title__label {
         font-size: 30px;
     }
@@ -534,5 +550,31 @@ body {
     }
     .step-item__info {
         width: 220px;
+    }
+}
+
+@media (max-width: 400px) {
+    .home_vakansii {
+        margin: 0 -20px ;
+        .item::before {
+            display: none;
+        }
+        .item__img-wrap {
+            display: none;
+        }
+    }
+    .item {
+        padding: 15px;
+    }
+    .home {
+        margin-top: -233px;
+    }
+    .item__name {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
+    .view-all {
+        font-size: 18px;
     }
 }

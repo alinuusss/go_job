@@ -20,5 +20,10 @@
                 Георгафия
             </a>
         </li>
+{{--        <li class="nav__item">--}}
+{{--            <a href="{{ route('vakansii') }}" class="nav__link">--}}
+{{--                Вакансии--}}
+{{--            </a>--}}
+{{--        </li>--}}
     </ul>
 </nav>

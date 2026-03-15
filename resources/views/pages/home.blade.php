@@ -37,7 +37,7 @@
                 </div>
                 <div class="item__footer">
                     <a href="{{ config('app_site.link') }}" target="_blank" class="item__link btn">
-                        Подключиться
+                        Откликнуться
                     </a>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                 </div>
                 <div class="item__footer">
                     <a href="https://trk.ppdu.ru/click/D8VxjaBk?erid=Kra23uVC3" target="_blank" class="item__link btn">
-                        Подключиться
+                        Откликнуться
                     </a>
                 </div>
             </div>
@@ -99,7 +99,7 @@
                 </div>
                 <div class="item__footer">
                     <a href="https://trk.ppdu.ru/click/mi13zRHK?erid=Kra23uVC3" target="_blank" class="item__link btn">
-                        Подключиться
+                        Откликнуться
                     </a>
                 </div>
             </div>

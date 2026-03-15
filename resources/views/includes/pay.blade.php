@@ -93,7 +93,7 @@
         </p>
         <div>
             <a href="{{ config('app_site.link') }}" onclick="ym(106357133,'reachGoal','1'); return true;" target="_blank" class="btn main__btn">
-                Подключиться
+                Откликнуться
             </a>
         </div>
     </div>

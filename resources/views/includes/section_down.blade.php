@@ -33,7 +33,7 @@
             Нажав кнопку ниже, вы перейдёте на страницу сервиса Яндекс Еда, где можно выбрать способ передвижения и продолжить подключение
         </p>
         <div class="btn__footer">
-            <a href="{{ config('app_site.link') }}" onclick="ym(106357133,'reachGoal','1'); return true;" target="_blank" class="btn">Подключиться</a>
+            <a href="{{ config('app_site.link') }}" onclick="ym(106357133,'reachGoal','1'); return true;" target="_blank" class="btn">Откликнуться</a>
         </div>
     </div>
 </div>

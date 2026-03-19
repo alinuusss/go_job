@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'link' => 'https://trk.ppdu.ru/click/IINH8Fkp?erid=Kra23uVC3'
+    'link' => 'https://trk.ppdu.ru/click/Xkn1xiTt?erid=Kra23uVC3'
 ];
